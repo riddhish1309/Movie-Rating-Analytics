@@ -1,4 +1,6 @@
 # Movie-Rating-Analytics
+
+We have a .csv file of Movie-Rating-Analytics and today we will be using this data to visualize and perform other type of analysis on it using Pandas.
 Following are the requirements.:
 1) highest grossing film (list)
 2) lowest gross
